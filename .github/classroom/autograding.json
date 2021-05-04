@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Test Case #1 exercise 1-13",
+      "name": "Test #1 PYAG 1.2",
       "setup": "sudo -H pip3 install pytest",
       "run": "python3 -m pytest",
       "input": "",
