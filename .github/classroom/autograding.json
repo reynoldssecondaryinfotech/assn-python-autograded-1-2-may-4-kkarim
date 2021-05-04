@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "Test #2",
+      "setup": "",
+      "run": "python3 src/exercise.py",
+      "input": "11 5",
+      "output": "27.5",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
